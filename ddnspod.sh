@@ -7,6 +7,9 @@
 # Combine your token ID and token together as follows
 arToken="12345,7676f344eaeaea9074c123451234512d"
 
+# specify PPPoE device
+# dev=""ppp0"
+
 # Place each domain you want to check as follows
 # you can have multiple arDdnsCheck blocks
 
