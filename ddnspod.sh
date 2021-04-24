@@ -14,4 +14,4 @@ arToken="12345,7676f344eaeaea9074c123451234512d"
 arDdnsCheck "test.org" "subdomain"
 
 # IPv6:
-arDdnsCheck "test.org" "subdomain6" 6
+# arDdnsCheck "test.org" "subdomain6" 6
